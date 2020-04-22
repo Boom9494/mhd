@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: "SearchResult"
+  name: 'SearchResult'
 }
 </script>
 

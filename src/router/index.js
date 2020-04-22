@@ -61,6 +61,10 @@ const routes = [
   {
     path: '/vip',
     component: Vip
+  },
+  {
+    path: '/',
+    redirect: '/home'
   }
 
 ]

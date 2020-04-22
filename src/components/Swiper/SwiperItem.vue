@@ -1,12 +1,12 @@
 <template>
-  <div class="page-favorite">
-    <h1>收藏页面</h1>
+  <div class="swiper-slide">
+    <slot></slot>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Favorite'
+  name: 'SwiperItem'
 }
 </script>
 
